@@ -1,2 +1,2 @@
 # Hello-world-2
-Just another repository
+Programa para aprender a usar git y github
